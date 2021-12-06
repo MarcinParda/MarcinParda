@@ -8,9 +8,9 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MarcinParda&label=Profile%20views&color=0e75b6&style=plastic" alt="MarcinParda" /> </p>
 
-## 🛠️ My Skills
+### 🛠️ My Skills
 
-### 👉 Programming languages
+#### 👉 Programming languages
 
 <p align="left"> 
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
@@ -20,7 +20,7 @@
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
-### 👉 Frameworks & Libraries
+#### 👉 Frameworks & Libraries
 <p align="left"> 
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   &emsp;
@@ -34,7 +34,7 @@
   &emsp;
 </p>
 
-### 👉 Frontend Development
+#### 👉 Frontend Development
 <p align="left"> 
   <img alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   &emsp; 
@@ -47,7 +47,7 @@
   <img alt="Material UI" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </p>
 
-### 👉 Hosting
+#### 👉 Hosting
 <p align="left">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
   &emsp;
@@ -58,7 +58,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
  </p>
 
-### 👉 Software & Tools
+#### 👉 Software & Tools
 <p>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   &emsp;
@@ -75,7 +75,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
-### 👉 Learning
+#### 👉 Learning
 <p>
   &emsp;
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -83,7 +83,7 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Talk
+### 🙋‍♀️ Let's Talk
 <p align="left">
 	<a href="mailto:marcin98parda@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/marcinparda"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
