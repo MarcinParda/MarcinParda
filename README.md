@@ -24,11 +24,13 @@
 <p align="left"> 
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   &emsp;
+  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  &emsp;
   <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
   &emsp; 
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=red"/>
+  &emsp; 
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-  &emsp;
-  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
   &emsp;
   <img alt="RXJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white">
   &emsp;
