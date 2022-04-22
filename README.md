@@ -13,6 +13,7 @@
 <p align="left"> 
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23323330.svg?style=flat&logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/node.js-%23323330.svg?style=flat&logo=node.js&logoColor=white">
 </p>
 
 #### 👉 Frameworks & Libraries
