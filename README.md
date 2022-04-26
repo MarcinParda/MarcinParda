@@ -19,9 +19,10 @@
 #### 👉 Frameworks & Libraries
 <p align="left"> 
   <img alt="React" src="https://img.shields.io/badge/react-FCC624.svg?style=flat&logo=react&logoColor=black"/>
-  <img alt="Angular" src="https://img.shields.io/badge/angular-FCC624.svg?style=flat&logo=angular&logoColor=black"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next-FCC624?style=flat&logo=next.js&logoColor=black"/>
+  <img alt="Angular" src="https://img.shields.io/badge/angular-FCC624.svg?style=flat&logo=angular&logoColor=black"/>
   <img alt="Jest" src="https://img.shields.io/badge/Jest-FCC624?style=flat&logo=jest&logoColor=black"/>
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-FCC624?style=flat&logo=cypress&logoColor=black"/>
   <img alt="Redux" src="https://img.shields.io/badge/redux-FCC624.svg?style=flat&logo=redux&logoColor=black">
   <img alt="RXJS" src="https://img.shields.io/badge/rxjs-FCC624.svg?style=flat&logo=reactivex&logoColor=black">
   &emsp;
@@ -56,13 +57,13 @@
 
 #### 👉 Learning
 <p>
-  <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=white">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%2320232a.svg?style=flat&logo=nestjs&logoColor=white">
 </p>
 
 <br/>
 
 ### 🙋‍♀️ Let's Talk
 <p align="left">
-	<a href="https://linkedin.com/in/marcinparda"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/marcinparda"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 <hr/>
