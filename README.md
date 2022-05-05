@@ -47,6 +47,7 @@
 #### 👉 Software & Tools
 <p>
   <img alt="Git" src="https://img.shields.io/badge/git-%2338B2AC.svg?style=flat&logo=git&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%2338B2AC.svg?style=flat&logo=docker&logoColor=white">
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%2338B2AC.svg?style=flat&logo=webpack&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%2338B2AC?style=flat&logo=linux&logoColor=white">
   <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=%2338B2AC">
