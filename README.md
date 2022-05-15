@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Marcin Parda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=React+Developer;Next.js,+Typescript+Enthusiast;Learning+React+Native&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Next.js,+Typescript+Enthusiast;Learning+Nest.js&center=true&width=500&height=50"></a>
 </p>
 <p>I am an optimistic enthusiast who found happiness in learning new things. A relaxed and fun atmosphere is important to me when interacting with people. I enjoy confronting my views and thoughts with others.</p>
 <img src="https://komarev.com/ghpvc/?username=MarcinParda&label=Profile%20views&color=0e75b6&style=plastic" alt="MarcinParda" />
