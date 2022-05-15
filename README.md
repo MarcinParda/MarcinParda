@@ -43,6 +43,7 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white">
   <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%23039BE5.svg?style=flat&logo=githubactions&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23039BE5.svg?style=flat&logo=vercel&logoColor=white">
+  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23039BE5.svg?style=flat&logo=heroku&logoColor=white">
  </p>
 
 #### 👉 Software & Tools
