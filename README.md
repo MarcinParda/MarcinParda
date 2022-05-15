@@ -21,6 +21,7 @@
   <img alt="React" src="https://img.shields.io/badge/react-FCC624.svg?style=flat&logo=react&logoColor=black"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next-FCC624?style=flat&logo=next.js&logoColor=black"/>
   <img alt="Angular" src="https://img.shields.io/badge/angular-FCC624.svg?style=flat&logo=angular&logoColor=black"/>
+  <img alt="Express" src="https://img.shields.io/badge/express-FCC624.svg?style=flat&logo=express&logoColor=black">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-FCC624?style=flat&logo=jest&logoColor=black"/>
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-FCC624?style=flat&logo=cypress&logoColor=black"/>
   <img alt="Redux" src="https://img.shields.io/badge/redux-FCC624.svg?style=flat&logo=redux&logoColor=black">
