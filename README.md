@@ -18,34 +18,33 @@
 
 #### 👉 Frameworks & Libraries
 <p align="left"> 
-  <img alt="React" src="https://img.shields.io/badge/react-FCC624.svg?style=flat&logo=react&logoColor=black"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next-FCC624?style=flat&logo=next.js&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/react-FCC624.svg?style=flat&logo=react&logoColor=black"/>
   <img alt="Angular" src="https://img.shields.io/badge/angular-FCC624.svg?style=flat&logo=angular&logoColor=black"/>
   <img alt="Express" src="https://img.shields.io/badge/express-FCC624.svg?style=flat&logo=express&logoColor=black">
+  <img alt="React-query" src="https://img.shields.io/badge/React Query-FCC624.svg?style=flat&logo=reactquery&logoColor=black">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-FCC624?style=flat&logo=jest&logoColor=black"/>
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-FCC624?style=flat&logo=cypress&logoColor=black"/>
-  <img alt="React-query" src="https://img.shields.io/badge/React Query-FCC624.svg?style=flat&logo=reactquery&logoColor=black">
+  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-FCC624.svg?style=flat&logo=Prisma&logoColor=black">
   <img alt="Redux" src="https://img.shields.io/badge/redux-FCC624.svg?style=flat&logo=redux&logoColor=black">
   <img alt="RXJS" src="https://img.shields.io/badge/rxjs-FCC624.svg?style=flat&logo=reactivex&logoColor=black">
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-FCC624.svg?style=flat&logo=Prisma&logoColor=black">
   &emsp;
 </p>
 
 #### 👉 Frontend Development
 <p align="left"> 
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-red.svg?style=flat&logo=tailwind-css&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/SASS-red.svg?style=flat&logo=SASS&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/html5-red.svg?style=flat&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/css3-red.svg?style=flat&logo=css3&logoColor=white">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-red.svg?style=flat&logo=tailwind-css&logoColor=white"/>
   <img alt="Material UI" src="https://img.shields.io/badge/MUI-red.svg?style=flat&logo=material-ui&logoColor=white"/>
 </p>
 
 #### 👉 Hosting & Databases
 <p align="left">
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%23039BE5.svg?style=flat&logo=githubactions&logoColor=white">
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23039BE5.svg?style=flat&logo=vercel&logoColor=white">
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23039BE5.svg?style=flat&logo=heroku&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%23039BE5.svg?style=flat&logo=githubactions&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white">
  </p>
 
 #### 👉 Software & Tools
@@ -54,7 +53,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%2338B2AC.svg?style=flat&logo=docker&logoColor=white">
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%2338B2AC.svg?style=flat&logo=webpack&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%2338B2AC?style=flat&logo=linux&logoColor=white">
-  <img alt="Webstorm" src="https://img.shields.io/badge/webstorm-143?style=flat&logo=webstorm&logoColor=white&color=%2338B2AC">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2338B2AC.svg?style=flat&logo=visual-studio-code&logoColor=white">
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-%2338B2AC?style=flat&logo=insomnia&logoColor=white">
   <img alt="Figma" src="https://img.shields.io/badge/figma-%2338B2AC.svg?style=flat&logo=figma&logoColor=white">
