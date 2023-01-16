@@ -51,6 +51,7 @@
 <p>
   <img alt="Git" src="https://img.shields.io/badge/git-%2338B2AC.svg?style=flat&logo=git&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%2338B2AC.svg?style=flat&logo=docker&logoColor=white">
+  <img alt="Vite" src="https://img.shields.io/badge/vite-%2338B2AC.svg?style=flat&logo=vite&logoColor=white">
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-%2338B2AC.svg?style=flat&logo=webpack&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-%2338B2AC?style=flat&logo=linux&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2338B2AC.svg?style=flat&logo=visual-studio-code&logoColor=white">
