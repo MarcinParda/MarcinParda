@@ -24,7 +24,7 @@
   <img alt="Angular" src="https://img.shields.io/badge/angular-FCC624.svg?style=flat&logo=angular&logoColor=black"/>
   <img alt="React-query" src="https://img.shields.io/badge/React Query-FCC624.svg?style=flat&logo=reactquery&logoColor=black">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-FCC624?style=flat&logo=jest&logoColor=black"/>
-  <img alt="Vitest" src="https://img.shields.io/badge/Jest-FCC624?style=flat&logo=jest&logoColor=black"/>
+  <img alt="Vitest" src="https://img.shields.io/badge/vitest-FCC624?style=flat&logo=vitest&logoColor=black"/>
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-FCC624?style=flat&logo=cypress&logoColor=black"/>
   <img alt="Playwright" src="https://img.shields.io/badge/playwright-FCC624?style=flat&logo=playwright&logoColor=black"/>
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-FCC624.svg?style=flat&logo=Prisma&logoColor=black">
