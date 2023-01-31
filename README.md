@@ -20,11 +20,13 @@
 <p align="left"> 
   <img alt="Next.js" src="https://img.shields.io/badge/Next-FCC624?style=flat&logo=next.js&logoColor=black"/>
   <img alt="React" src="https://img.shields.io/badge/react-FCC624.svg?style=flat&logo=react&logoColor=black"/>
-  <img alt="Angular" src="https://img.shields.io/badge/angular-FCC624.svg?style=flat&logo=angular&logoColor=black"/>
   <img alt="Express" src="https://img.shields.io/badge/express-FCC624.svg?style=flat&logo=express&logoColor=black">
+  <img alt="Angular" src="https://img.shields.io/badge/angular-FCC624.svg?style=flat&logo=angular&logoColor=black"/>
   <img alt="React-query" src="https://img.shields.io/badge/React Query-FCC624.svg?style=flat&logo=reactquery&logoColor=black">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-FCC624?style=flat&logo=jest&logoColor=black"/>
+  <img alt="Vitest" src="https://img.shields.io/badge/Jest-FCC624?style=flat&logo=jest&logoColor=black"/>
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-FCC624?style=flat&logo=cypress&logoColor=black"/>
+  <img alt="Playwright" src="https://img.shields.io/badge/playwright-FCC624?style=flat&logo=playwright&logoColor=black"/>
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-FCC624.svg?style=flat&logo=Prisma&logoColor=black">
   <img alt="Redux" src="https://img.shields.io/badge/redux-FCC624.svg?style=flat&logo=redux&logoColor=black">
   <img alt="RXJS" src="https://img.shields.io/badge/rxjs-FCC624.svg?style=flat&logo=reactivex&logoColor=black">
@@ -32,7 +34,7 @@
 </p>
 
 #### 👉 Frontend Development
-<p align="left"> 
+<p align="left">
   <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-red.svg?style=flat&logo=tailwind-css&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/SASS-red.svg?style=flat&logo=SASS&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/html5-red.svg?style=flat&logo=html5&logoColor=white">
