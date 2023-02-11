@@ -70,11 +70,3 @@ I am an optimistic enthusiast who found happiness in learning new things. A rela
 <p>
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%2320232a.svg?style=flat&logo=nestjs&logoColor=white">
 </p>
-
-<br/>
-
-### 🙋‍♀️ Let's Talk
-<p align="left">
-  <a href="https://linkedin.com/in/marcinparda"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-<hr/>
