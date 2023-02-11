@@ -4,7 +4,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Next.js,+Typescript+Enthusiast;Learning+Nest.js&center=true&width=500&height=50"></a>
 </p>
 <p>
-I am an optimistic enthusiast who found happiness in learning new things. A relaxed and fun atmosphere is important to me when interacting with people. I enjoy confronting my views and thoughts with others. Advent of Code participant. Code mentor. Open source contributor. React & Next.js enthusiast. On the way to becoming fullstack. Fan of lofi music.</p>
+Advent of Code participant. Code mentor. Open source contributor. React & Next.js enthusiast. Fan of lofi music.
+
+I am an optimistic enthusiast who found happiness in learning new things. A relaxed and fun atmosphere is important to me when interacting with people. I enjoy confronting my views and thoughts with others. On the way to becoming fullstack.
+
 <img src="https://komarev.com/ghpvc/?username=MarcinParda&label=Profile%20views&color=0e75b6&style=plastic" alt="MarcinParda" />
 
 ### 🛠️ My Main Skills
