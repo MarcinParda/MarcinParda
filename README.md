@@ -8,4 +8,4 @@ Code mentor. IT meetings attender, lecturer. Programming blogger. Advent of Code
 
 More about me here: https://parda.me
 
-[My CV]([https://www.linkedin.com/posts/mapocock_ts-53-as-const-activity-7135604338453839872-B6Xk?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/in/marcinparda/overlay/1635552298605/single-media-viewer/?profileId=ACoAAC9Rbp0B-hSO4JJbggdUp2R9bSKIXuabeH0)https://www.linkedin.com/in/marcinparda/overlay/1635552298605/single-media-viewer/?profileId=ACoAAC9Rbp0B-hSO4JJbggdUp2R9bSKIXuabeH0)
+[My CV](https://www.linkedin.com/in/marcinparda/overlay/1635552298605/single-media-viewer/?profileId=ACoAAC9Rbp0B-hSO4JJbggdUp2R9bSKIXuabeH0)
