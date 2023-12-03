@@ -6,6 +6,6 @@
 <p>
 Code mentor. IT meetings attender, lecturer. Programming blogger. Advent of Code & hackatons participant. On the way to becoming a fullstack.
 
-More about me here: https://parda.me
+More about me here: https://parda.me/about
 
 [My CV](https://www.linkedin.com/in/marcinparda/overlay/1635552298605/single-media-viewer/?profileId=ACoAAC9Rbp0B-hSO4JJbggdUp2R9bSKIXuabeH0)
